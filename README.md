@@ -1,1 +1,3 @@
 # Computer-Vision
+
+This project develops a real-time drowsiness detection system optimized for low-resource environments by integrating multiple YOLO (You Only Look Once) models with a Convolutional Neural Network (CNN). Utilizing facial features such as Eye Aspect Ratio (EAR), Mouth Aspect Ratio (MAR), Yaw, Pitch, and Roll, the system employs YOLOv8n, YOLOv8m, YOLOv10m, and YOLOv11n for efficient face detection. The extracted features are classified using a CNN, and an ensemble strategy combines the strengths of both models to achieve high accuracy and minimal latency. This integrated approach ensures reliable drowsiness monitoring suitable for deployment on devices with limited computational capabilities.
