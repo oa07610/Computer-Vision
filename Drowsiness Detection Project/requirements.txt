@@ -1,0 +1,14 @@
+ultralytics
+mediapipe
+torch
+torchvision
+torchaudio
+opencv-python
+pandas
+scipy
+roboflow
+tqdm
+matplotlib
+seaborn
+scikit-learn
+winsound; platform_system == "Windows"
